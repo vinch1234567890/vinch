@@ -1,7 +1,7 @@
 import React from "react";
 import {motion} from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import im1 from '../assets/images/im1.jpg';
+import vm from '../assets/images/vm.png';
 import lms from '../assets/images/lms.png';
 import nt from '../assets/images/nt.png';
 
@@ -10,7 +10,7 @@ const projects =[
         id:1,
         title: "Virac Storm Surge Mapping System",
         description: "Led the full-stack development of the Virac Storm Surge Identification System, a web-based platform designed to identify storm surge-prone areas in Virac, Catanduanes. Developed the system using PHP for backend logic, with HTML, CSS, and Bootstrap for a responsive and user-friendly interface. Integrated a Geographical Information System (GIS) to provide interactive mapping and visualization of high-risk zones. Utilized QGIS software to create and process shapefiles, ensuring accurate and precise mapping data for the web system.",
-        image: im1
+        image: vm
 
     },
 

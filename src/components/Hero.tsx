@@ -7,7 +7,7 @@ import im2 from '../assets/images/im2.png'; // Import the image
 export default function Hero() {
 
   return (
-    <section className="flex flex-row items-center justify-center h-screen px-10 mb-[-100px]">
+    <section className="flex flex-row items-center justify-center h-screen px-10 ">
       <div className="w-1/2 text-left ml-[200px] ">
         <h1 className = "text-7xl font-bold text-white">
           Hello, I'm <span className="text-blue-500 text-9xl">Vinchent Pantino</span>
