@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ProjectDetails from './components/ProjectDetails';
 import './App.css';
 import Header from './components/Header';
@@ -9,6 +9,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
+    <Router basename="/vinch"> {/* Replace with your repository name */}
       <Routes>
         <Route path="/" element={
           <div className="App">
@@ -20,6 +21,7 @@ function App() {
         } />
         <Route path="/projects/:id" element={<ProjectDetails />} />
       </Routes>
+    </Router>
   );
 }
 
