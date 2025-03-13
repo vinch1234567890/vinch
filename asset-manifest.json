@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vinch/static/css/main.09b8dd96.css",
+    "main.js": "/vinch/static/js/main.54b04a72.js",
+    "static/js/453.acca0757.chunk.js": "/vinch/static/js/453.acca0757.chunk.js",
+    "static/media/im2.png": "/vinch/static/media/im2.dbd549632ed590da7fd5.png",
+    "static/media/vm.png": "/vinch/static/media/vm.4fe2b11413ad7b75adf0.png",
+    "static/media/nt.png": "/vinch/static/media/nt.20025bd14164bed2c375.png",
+    "static/media/lms.png": "/vinch/static/media/lms.3503f299b84443bc9c08.png",
+    "static/media/react-2.svg": "/vinch/static/media/react-2.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/typescript.svg": "/vinch/static/media/typescript.a4c19a324f72ed028c6c57b4e40a3b91.svg",
+    "static/media/wordpress-icon-1.svg": "/vinch/static/media/wordpress-icon-1.203c28dfdb6b9849eef82ad98ba47662.svg",
+    "static/media/figma-icon.svg": "/vinch/static/media/figma-icon.f8a59847e765256ccc3cf1d29481131c.svg",
+    "index.html": "/vinch/index.html",
+    "static/media/angular-icon-1.svg": "/vinch/static/media/angular-icon-1.28ae4f3c6c193d04113e4767a73b86bc.svg",
+    "static/media/javascript-1.svg": "/vinch/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "static/media/flutter-logo.svg": "/vinch/static/media/flutter-logo.83219c099347619051f3aa0fa0e2108e.svg",
+    "main.09b8dd96.css.map": "/vinch/static/css/main.09b8dd96.css.map",
+    "main.54b04a72.js.map": "/vinch/static/js/main.54b04a72.js.map",
+    "453.acca0757.chunk.js.map": "/vinch/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b8dd96.css",
+    "static/js/main.54b04a72.js"
+  ]
+}
