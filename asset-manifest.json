@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vinch/static/css/main.09b8dd96.css",
-    "main.js": "/vinch/static/js/main.0e9b9334.js",
+    "main.js": "/vinch/static/js/main.34108fb0.js",
     "static/js/453.acca0757.chunk.js": "/vinch/static/js/453.acca0757.chunk.js",
     "static/media/im2.png": "/vinch/static/media/im2.dbd549632ed590da7fd5.png",
     "static/media/vm.png": "/vinch/static/media/vm.4fe2b11413ad7b75adf0.png",
@@ -16,11 +16,11 @@
     "static/media/javascript-1.svg": "/vinch/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/flutter-logo.svg": "/vinch/static/media/flutter-logo.83219c099347619051f3aa0fa0e2108e.svg",
     "main.09b8dd96.css.map": "/vinch/static/css/main.09b8dd96.css.map",
-    "main.0e9b9334.js.map": "/vinch/static/js/main.0e9b9334.js.map",
+    "main.34108fb0.js.map": "/vinch/static/js/main.34108fb0.js.map",
     "453.acca0757.chunk.js.map": "/vinch/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09b8dd96.css",
-    "static/js/main.0e9b9334.js"
+    "static/js/main.34108fb0.js"
   ]
 }
